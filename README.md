@@ -1,26 +1,45 @@
-### Hi there 👋, I'm PiL0t_Fullbog 💻
-
-* ⚡ Web developer & creator exploring digital projects, design, and code.
-* 🌐 Check out my [Developer Website](https://pilot-dev.duckdns.org/) or my [Linktree](https://pilot-links.duckdns.org/).
-* 🎮 Passionate about building cool digital tools, web apps, and exploring new technologies.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Hosting & Tools:** GitHub Pages, Git, DuckDNS, VS Code
-* **Design & Workflow:** Modern UI/UX concepts, clean code structures
+<div align="center">
+  <h1>Hi there 👋, I'm PiL0t_Fullbog</h1>
+  <p><b>Web Developer & Tech Enthusiast</b></p>
+  
+  <p>
+    <a href="https://pilot-dev.duckdns.org/"><img src="https://img.shields.io/badge/Developer_Website-blue?style=for-the-badge&logo=google-chrome" alt="Website"></a>
+    <a href="https://pilot-links.duckdns.org/"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree" alt="Linktree"></a>
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-![PiL0t_Fullbog's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildfullbog&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### 🚀 Über mich
+* 💻 Ich liebe es, kreative Web-Projekte, Tools und digitale Erlebnisse von Grund auf zu entwickeln.
+* 🌐 Aktuell fokussiere ich mich auf moderne Webentwicklung, sauberes Design und nützliche Applikationen.
+* 🎯 Mein Ziel ist es, funktionale und ästhetisch ansprechende Projekte für das Web umzusetzen.
 
 ---
 
-### 📫 Connect with me
+### 🛠️ Tech Stack & Skills
 
-[![Website](https://img.shields.io/badge/Website-pilot--dev.duckdns.org-blue?style=for-the-badge&logo=google-chrome)](https://pilot-dev.duckdns.org/)
-[![Linktree](https://img.shields.io/badge/Linktree-pilot--links.duckdns.org-green?style=for-the-badge&logo=linktree)](https://pilot-links.duckdns.org/)
+* **Frontend:** `HTML5`, `CSS3`, `JavaScript`
+* **Tools & Umgebung:** `Git`, `GitHub Pages`, `VS Code`, `DuckDNS`
+* **Design & Workflow:** `Responsive Design`, `UI/UX Basics`, `Clean Code`
+
+---
+
+### 📂 Meine Projekte
+* **[dev-website](https://github.com/wildfullbog/dev-website):** Mein persönliches Entwickler-Portfolio für Webentwicklung und Design.
+* **[Linktree](https://github.com/wildfullbog/Linktree):** Eine übersichtliche, zentrale Anlaufstelle für all meine Socials, Community-Links und Projekte.
+
+---
+
+### 📊 GitHub Stats & Trophies
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wildfullbog&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📫 Kontakt & Links
+* 🌐 **Website:** [pilot-dev.duckdns.org](https://pilot-dev.duckdns.org/)
+* 🔗 **Linktree:** [pilot-links.duckdns.org](https://pilot-links.duckdns.org/)
+* 💬 **Discord:** `Wild Fullbog`
