@@ -42,4 +42,4 @@
 ### 📫 Kontakt & Links
 * 🌐 **Website:** [pilot-dev.duckdns.org](https://pilot-dev.duckdns.org/)
 * 🔗 **Linktree:** [pilot-links.duckdns.org](https://pilot-links.duckdns.org/)
-* 💬 **Discord:** `Wild Fullbog`
+* 💬 **Discord:** `Pil0t_Fullbog`
