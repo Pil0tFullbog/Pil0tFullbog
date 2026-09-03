@@ -2,11 +2,23 @@
 
 * ⚡ Web developer & creator exploring digital projects, design, and code.
 * 🌐 Check out my [Developer Website](https://pilot-dev.duckdns.org/) or my [Linktree](https://pilot-links.duckdns.org/).
+* 🎮 Passionate about building cool digital tools, web apps, and exploring new technologies.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Frontend:** HTML5, CSS3
-* **Hosting & Tools:** GitHub Pages, Git, DuckDNS
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Hosting & Tools:** GitHub Pages, Git, DuckDNS, VS Code
+* **Design & Workflow:** Modern UI/UX concepts, clean code structures
+
+---
+
+### 📊 GitHub Stats
+
+![PiL0t_Fullbog's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildfullbog&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+---
 
 ### 📫 Connect with me
 
