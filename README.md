@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm PiL0t_Fullbog</h1>
+  <h1>Hi there 👋, I'm Pil0t_Fullbog</h1>
   <p><b>Web Developer & Tech Enthusiast</b></p>
   
   <p>
@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-* **Frontend:** `HTML5`, `CSS3`, `JavaScript`
+* **Frontend:** `HTML`, `CSS`
 * **Tools & Umgebung:** `Git`, `GitHub Pages`, `VS Code`, `DuckDNS`
 * **Design & Workflow:** `Responsive Design`, `UI/UX Basics`, `Clean Code`
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🪧 My Banner
+### 🪧 Mein Banner
 
 <div align="center">
   <img src="https://github.com/Pil0tFullbog/Pil0tFullbog/blob/main/30e88c6a4f44eef8fd352dfe3920d53b012a5b6b7115b4eb877cacf278b8644c.png">
