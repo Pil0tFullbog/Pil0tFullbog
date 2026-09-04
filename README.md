@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="banner.png">
+  <img src="https://github.com/Pil0tFullbog/Pil0tFullbog/blob/main/30e88c6a4f44eef8fd352dfe3920d53b012a5b6b7115b4eb877cacf278b8644c.png">
 </div>
 
 ---
