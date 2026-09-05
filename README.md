@@ -34,7 +34,7 @@
 ### 🪧 Mein Banner
 
 <div align="center">
-  <img src="https://github.com/Pil0tFullbog/Pil0tFullbog/blob/main/30e88c6a4f44eef8fd352dfe3920d53b012a5b6b7115b4eb877cacf278b8644c.png">
+  <img src="https://github.com/Pil0tFullbog/Pil0tFullbog/blob/main/5b6deedd-cf47-4168-8a34-700358c6725d.png">
 </div>
 
 ---
